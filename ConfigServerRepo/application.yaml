@@ -13,8 +13,4 @@ management:
       endpoint: "http://localhost:9411/api/v2/spans"
   tracing:
     sampling:
-<<<<<<< HEAD
       probability: 1.0
-=======
-      probability: 1.0
->>>>>>> 231e81a77e0ce9b05fde8d0883dd317aa5a37ccb
